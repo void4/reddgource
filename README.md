@@ -5,4 +5,4 @@ I wrote a Python script that uses [PRAW](https://praw.readthedocs.io/en/latest/)
 After that, I started gource in --fullscreen mode and used [OBS](https://obsproject.com/) to record the video.
 
 You can find the script here: https://github.com/void4/reddgource
-Video link: https://streamable.com/4ik8w
+Video link: https://www.youtube.com/watch?v=MaBJld-iOH8
